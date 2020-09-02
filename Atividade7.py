@@ -3,3 +3,4 @@ print(componentes)
 del componentes[1]
 del componentes[3]
 print(componentes)
+
