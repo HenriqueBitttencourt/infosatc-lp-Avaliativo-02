@@ -9,4 +9,5 @@ Turma: 2137 <p>
 - [Exercício5]https://github.com/HenriqueBitttencourt/infosatc-lp-Avaliativo-02/blob/master/Atividade5.py
 - [Exercício6]https://github.com/HenriqueBitttencourt/infosatc-lp-Avaliativo-02/blob/master/Atividade6.py
 - [Exercício7]https://github.com/HenriqueBitttencourt/infosatc-lp-Avaliativo-02/blob/master/Atividade7.py
+- [Exercício8]
 
